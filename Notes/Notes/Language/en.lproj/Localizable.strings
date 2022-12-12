@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Mohammed Skaik on 05/12/2022.
+  
+*/
+
+"Select your default language" = "Select your default language";
+"Are you sure to change App language? The application will turn off. please relaunch it again." = "Are you sure to change App language? The application will turn off. please relaunch it again.";
+"Sorry, Something wrong" = "Sorry, Something wrong";
+"OK" = "OK";
+"Alert" = "Alert";
+"Cancel" = "Cancel";
+
+// MARK: - CRRefresh
+"CRRefreshHeaderIdleText" = "Pull down to refresh";
+"CRRefreshHeaderPullingText" = "Release to refresh";
+"CRRefreshHeaderRefreshingText" = "Loading...";
+"CRRefreshFooterIdleText" = "Loading more";
+"CRRefreshFooterNoMoreText" = "No more data";
+"CRRefreshFooterRefreshingText" = "Loading...";
+
+// MARK: - Login
+"Sign In" = "Sign In";
+"Login" =  "Login";
+"Login to start using app," = "Login to start using app,";
+"Email" = "Email";
+"Password" = "Password";
+"Don’t have an account? Sign up" = "Don’t have an account? Sign up";
+"Sign up" = "Sign up";
+"Sign Up" = "Sign Up";
+"Email: " = "Email: ";
+" already exist." = " already exist.";
+"Couldn't find your email." = "Couldn't find your email.";
+"The password you entered did not match our records. Please try again." = "The password you entered did not match our records. Please try again.";
+
+// MARK: - SignUp
+"Create an account" = "Create an account";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone" = "Phone";
+"Please enter first name" = "Please enter first name";
+"Please enter last name" = "Please enter last name";
+"Please enter Email" = "Please enter Email";
+"This is not a valid email such as \"Example@gmail.com\", please try again." = "This is not a valid email such as \"Example@gmail.com\", please try again.";
+"Please enter phone" = "Please enter phone";
+"Please enter Password" = "Please enter Password";
+
+// MARK: - Categories
+"Categories" ="Categories";
+"There are no categories" = "There are no categories";
+
+// MARK: - AddOrEdit
+"Title" = "Title";
+"Description" = "Description";
+"Save" = "Save";
+"New Category" = "New Category";
+"Create category" = "Create category";
+"Edit Category" = "Edit Category";
+"New Note" = "New Note";
+"Create note" = "Create note";
+"Edit Note" = "Edit Note";
+"Please enter data." = "Please enter data.";
+
+// MARK: - Notes
+"There are no notes" = "There are no notes";
+
+// MARK: - AboutApp
+"About App" = "About App";
+
+// MARK: - Settings
+"Settings" = "Settings";
+"Language" = "Language";
+"Selected language: " = "Selected language: ";
+"Profile" = "Profile";
+"Update your data…" = "Update your data…";
+"Update your password" = "Update your password";
+"What is notes app?" = "What is notes app?";
+"Logout" = "Logout";
+"Waiting your return…" = "Waiting your return…";
+
+// MARK: - ChangePassword
+"Change Password" = "Change Password";
+"Current Password" = "Current Password";
+"New Password" = "New Password";
+"Confirm New Password" = "Confirm New Password";
+"Your current password does not matches with the password you provided. Please try again." = "Your current password does not matches with the password you provided. Please try again.";
+"Please make sure your new password match with confirm new password." = "Please make sure your new password match with confirm new password.";
+"Password Changed!" = "Password Changed!";
+"Your password has been changed successfully." = "Your password has been changed successfully.";
+
+// MARK: - Profile
+"Done Notes" = "Done Notes";
+"Waiting Notes" = "Waiting Notes";
+"Profile Updated!" = "Profile Updated!";
+"Your profile has been updated successfully" = "Your profile has been updated successfully";
+"Are you sure you want to log out!!" = "Are you sure you want to log out!!";
+
+"" = "";

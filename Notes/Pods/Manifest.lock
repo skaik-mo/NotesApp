@@ -1,0 +1,30 @@
+PODS:
+  - EmptyDataSet-Swift (5.0.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - ProgressHUD (13.6)
+
+DEPENDENCIES:
+  - EmptyDataSet-Swift (= 5.0.0)
+  - IQKeyboardManagerSwift
+  - MagicalRecord
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - EmptyDataSet-Swift
+    - IQKeyboardManagerSwift
+    - MagicalRecord
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+
+PODFILE CHECKSUM: 16fda03c9fc3e92a103082fdd93a39e245f0c55f
+
+COCOAPODS: 1.11.3

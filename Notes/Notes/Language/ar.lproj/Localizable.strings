@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Mohammed Skaik on 05/12/2022.
+  
+*/
+
+"Select your default language" = "حدد لغتك الافتراضية";
+"Are you sure to change App language? The application will turn off. please relaunch it again." = "هل أنت متأكد من تغيير لغة التطبيق؟ سيتم إيقاف التطبيق. يرجى إعادة تشغيله مرة أخرى.";
+"Sorry, Something wrong" = "عذرا ، هناك شيء خاطئ";
+"OK" = "حسنا";
+"Alert" = "تنبيه";
+"Cancel" = "إلغاء";
+
+// MARK: - Login
+"Sign In" = "تسجيل الدخول";
+"Login" = "تسجيل الدخول";
+"Login to start using app," = "تسجيل الدخول لبدء استخدام التطبيق ،";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Don’t have an account? Sign up" = "ليس لديك حساب؟ اشتراك";
+"Sign up" = "اشتراك";
+"Sign Up" = "اشتراك";
+"Email: " = "البريد الإلكتروني: ";
+" already exist." = " موجود مسبقا.";
+"Couldn't find your email." = "تعذر العثور على بريدك الإلكتروني.";
+"The password you entered did not match our records. Please try again." = "كلمة المرور التي أدخلتها لا تتطابق مع سجلاتنا. حاول مرة اخرى.";
+
+// MARK: - SignUp
+"Create an account" = "إنشاء حساب";
+"First Name" = "الاسم";
+"Last Name" = "اسم العائلة";
+"Phone" = "هاتف";
+"Please enter first name" = "الرجاء إدخال الاسم";
+"Please enter last name" = "الرجاء إدخال اسم العائلة";
+"Please enter Email" = "الرجاء إدخال البريد الإلكتروني";
+"This is not a valid email such as \"Example@gmail.com\", please try again." = "هذا ليس بريدًا إلكترونيًا صالحًا مثل \"Example@gmail.com \" ، يرجى المحاولة مرة أخرى.";
+"Please enter phone" = "الرجاء إدخال الهاتف";
+"Please enter Password" = "الرجاء إدخال كلمة المرور";
+// MARK: - Categories
+"Categories" ="الفئات";
+"There are no categories" = "لا يوجد فئات";
+
+// MARK: - AddOrEdit
+"Title" = "العنوان";
+"Description" = "الوصف";
+"Save" = "حفظ";
+"New Category" = "فئة جديدة";
+"Create category" = "إنشاء فئة";
+"Edit Category" = "تعديل الفئة";
+"New Note" = "ملاحظة جديدة";
+"Create note" = "إنشاء ملاحظة";
+"Edit Note" = "تعديل ملاحظة";
+"Please enter data." = "الرجاء إدخال البيانات.";
+
+// MARK: - Notes
+"There are no notes" = "لا توجد ملاحظات";
+
+// MARK: - AboutApp
+"About App" = "حول التطبيق";
+
+// MARK: - Settings
+"Settings" = "الإعدادات";
+"Language" = "اللغة";
+"Selected language: " = "اللغة المختارة: ";
+"Profile" = "الملف الشخصي";
+"Update your data…" = "حدِّث بياناتك ...";
+"Update your password" = "قم بتحديث كلمة المرور الخاصة بك";
+"What is notes app?" = "ما هو تطبيق Notes ؟";
+"Logout" = "تسجيل خروج";
+"Waiting your return…" = "في انتظار عودتك ...";
+
+// MARK: - ChangePassword
+"Change Password" = "غير كلمة السر";
+"Current Password" = "كلمة المرور الحالية";
+"New Password" = "كلمة السر الجديدة";
+"Confirm New Password" = "تأكيد كلمة المرور الجديدة";
+"Your current password does not matches with the password you provided. Please try again." = "كلمة المرور الحالية لا تتطابق مع كلمة المرور التي قدمتها. حاول مرة اخرى.";
+"Please make sure your new password match with confirm new password." = "يرجى التأكد من تطابق كلمة المرور الجديدة مع تأكيد كلمة المرور الجديدة.";
+"Password Changed!" = "تم تغيير كلمة السر!";
+"Your password has been changed successfully." = "تم تغيير كلمة المرور الخاصة بك بنجاح.";
+
+// MARK: - Profile
+"Done Notes" = "الملاحظات تم تنفيذها";
+"Waiting Notes" = "الملاحظات في انتظار";
+"Profile Updated!" = "تحديث الملف الشخصي!";
+"Your profile has been updated successfully" = "تم تحديث ملفك الشخصي بنجاح";
+"Are you sure you want to log out!!" = "هل أنت متأكد أنك تريد تسجيل الخروج!!";
+"" = "";
