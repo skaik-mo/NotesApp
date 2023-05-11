@@ -10,6 +10,7 @@ import UIKit
 
 class CategoryTableViewCell: GeneralTableViewCell {
 
+    @IBOutlet weak var containerStack: UIStackView!
     @IBOutlet weak var letterLabel: UILabel!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var descriptionLabel: UILabel!
@@ -20,6 +21,7 @@ class CategoryTableViewCell: GeneralTableViewCell {
     }
 
     override func configerCell() {
+        self.containerStack.layoutMargins = Language().isRTL ? .init(top: 0, left: 0, bottom: 0, right: 15) : .init(top: 0, left: 15, bottom: 0, right: 0)
         if let category = self.object as? Category {
             self.letterLabel.text = category.title?.first?.uppercased()
             self.titleLabel.text = category.title
